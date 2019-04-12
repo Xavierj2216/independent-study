@@ -30,11 +30,9 @@ The music or code I was working on in EarSketch python script. The below is only
 
 Most of the tutorial shows python code being convert into Earsketch code. Then a comparison between the two codes like how to use each.
 Ex: Variable in EarSketch
-
-'tempo = 120'
-'track = 1'
-'start = 1'
-'clip = "YG_HOUSE_PERC_1"'
+tempo = 120
+or
+clip = "YG_HOUSE_PERC_1"
 
 + The insertMedia() function is what allows you to place sound clips into the EarSketch DAW. The function takes in 3 parameters:
     + clipName
@@ -66,9 +64,16 @@ Ex: Variable in EarSketch
     
 
 ### Learning Music
+ 
++ One of the music producing video I watch
+   <img src= "https://i.ytimg.com/vi/OEIk3bJtTNw/maxresdefault.jpg" />
++Most good melodies use repeating elements.
++Rhythm & Varying Note Lengths
++Combine notes that are next to each other
 
-
-
+The other videos I watch were either EarSketch or song breakdown like Faded by Alan Walker.
+I also did a lot of exploring with catchy beats, good edm music, famous artist producing, writing lyrics, writing rap, etc.
++One example for writing lyric: http://blog.sonicbids.com/how-to-write-lyrics-for-the-first-time
 
 # Takeaways
 1. **Always remember to learn the basic, but don’t just learn do it:** I read and looked at a bunch of tutorials but I forgot half of it because I never tried it out myself. In the past I heard others say to use the code while you learn now I know why.
