@@ -31,10 +31,10 @@ The music or code I was working on in EarSketch python script. The below is only
 Most of the tutorial shows python code being convert into Earsketch code. Then a comparison between the two codes like how to use each.
 Ex: Variable in EarSketch
 
-tempo = 120
-track = 1
-start = 1
-clip = "YG_HOUSE_PERC_1"
+'tempo = 120'
+'track = 1'
+'start = 1'
+'clip = "YG_HOUSE_PERC_1"'
 
 + The insertMedia() function is what allows you to place sound clips into the EarSketch DAW. The function takes in 3 parameters:
     + clipName
@@ -42,16 +42,28 @@ clip = "YG_HOUSE_PERC_1"
     + startMeasure: where to place the clip on the track
 
 + setEffect(). It allows you to apply audio effects to your tracks to enhance the sound. This function takes in 4 parameters:
-++ track: An int specifying the track to add the effect to.
-++ effectName: A string (constant) specifying name of the effect (e.g. VOLUME)
-++ effectParam: A string (constant) specifying the parameter of the effect to set (e.g. GAIN)
-++ paramValue: A float specifying the value of the effect parameter.
+    + track: An int specifying the track to add the effect to.
+    + effectName: A string (constant) specifying name of the effect (e.g. VOLUME)
+    + effectParam: A string (constant) specifying the parameter of the effect to set (e.g. GAIN)
+    + paramValue: A float specifying the value of the effect parameter.
+    
++ Effects with setEffect method
+    + VOLUME (how loud a track is)
+        +Method: GAIN
+    + PAN (best heard with headphones, this is where the sound lies from left to right)
+        +Method: LEFT_RIGHT
+        +Ranges from -100.0 (all the way left) to 100.0 (all the way right) with 0.0 being in the center.
+    + DELAY (adds echos to the sound)
+        +Method: DELAY_TIME, MIX
+        +Ranges from 0.0 (no delay) to 4000 (4 second delay).
+    + DISTORTION (makes a sound lofi and noisier)
+        +Method: DISTO_GAIN
+        +Ranges from 0.0 (no distortion) to 50.0 (maximum distortion).
 
 + My EarSketch (This is a overview, the detail inside is not important)
 
     <img src= earsketch-progress.png />
     
-I 
 
 ### Learning Music
 
