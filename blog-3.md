@@ -65,7 +65,8 @@ clip = "YG_HOUSE_PERC_1"
 
 ### Learning Music
  
-+ One of the music producing video I watch
++ One of the music producing video I watch: 
+https://www.youtube.com/watch?v=OEIk3bJtTNw
    <img src= "https://i.ytimg.com/vi/OEIk3bJtTNw/maxresdefault.jpg" />
 
 +Most good melodies use repeating elements.
