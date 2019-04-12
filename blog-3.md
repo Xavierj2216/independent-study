@@ -20,7 +20,7 @@ The music or code I was working on in EarSketch python script. The below is only
     fitMedia(RD_POP_PADCHORD_2,2,2.9,6.9)
 
 I 
-+ My EarSketch
++ My EarSketch (This is a overview, the detail inside is not important)
 
     <img src= earsketch-progress.png />
     
