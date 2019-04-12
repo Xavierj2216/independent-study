@@ -67,12 +67,14 @@ clip = "YG_HOUSE_PERC_1"
  
 + One of the music producing video I watch
    <img src= "https://i.ytimg.com/vi/OEIk3bJtTNw/maxresdefault.jpg" />
+
 +Most good melodies use repeating elements.
 +Rhythm & Varying Note Lengths
 +Combine notes that are next to each other
 
 The other videos I watch were either EarSketch or song breakdown like Faded by Alan Walker.
 I also did a lot of exploring with catchy beats, good edm music, famous artist producing, writing lyrics, writing rap, etc.
+As I learn I did revision to my own music and ask suggestions from family, friends, and classmate.
 +One example for writing lyric: http://blog.sonicbids.com/how-to-write-lyrics-for-the-first-time
 
 # Takeaways
