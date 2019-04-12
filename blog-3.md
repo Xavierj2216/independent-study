@@ -36,16 +36,16 @@ track = 1
 start = 1
 clip = "YG_HOUSE_PERC_1"
 
-The insertMedia() function is what allows you to place sound clips into the EarSketch DAW. The function takes in 3 parameters:
-clipName:
-Track- the location of the clip in the DAW
-startMeasure: where to place the clip on the track
++ The insertMedia() function is what allows you to place sound clips into the EarSketch DAW. The function takes in 3 parameters:
+    + clipName
+    + Track- the location of the clip in the DAW
+    + startMeasure: where to place the clip on the track
 
-setEffect(). It allows you to apply audio effects to your tracks to enhance the sound. This function takes in 4 parameters:
-track: An int specifying the track to add the effect to.
-effectName: A string (constant) specifying name of the effect (e.g. VOLUME)
-effectParam: A string (constant) specifying the parameter of the effect to set (e.g. GAIN)
-paramValue: A float specifying the value of the effect parameter.
++ setEffect(). It allows you to apply audio effects to your tracks to enhance the sound. This function takes in 4 parameters:
+++ track: An int specifying the track to add the effect to.
+++ effectName: A string (constant) specifying name of the effect (e.g. VOLUME)
+++ effectParam: A string (constant) specifying the parameter of the effect to set (e.g. GAIN)
+++ paramValue: A float specifying the value of the effect parameter.
 
 + My EarSketch (This is a overview, the detail inside is not important)
 
