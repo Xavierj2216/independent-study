@@ -32,6 +32,6 @@ I
 
 
 # Takeaways
-1. **** 
-2. **** 
-3. **** 
+1. **Always remember to learn the basic, but don’t just learn do it:** I read and looked at a bunch of tutorials but I forgot half of it because I never tried it out myself. In the past I heard others say to use the code while you learn now I know why.
+2. **It is easy to create something but hard to make it good:** I created multiple beats/song but it is really hard to make it catchy or have great melody.
+3. **Ask for suggestions** Throughout the process of making music I ask multiple people what they they about the song and what I should add. This is for improvement in my music. 
