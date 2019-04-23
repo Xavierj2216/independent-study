@@ -6,7 +6,6 @@ starts getting boring. There is also no part that makes me feel like I want to d
 experience with music producing or it is the amount of beats that are in EarSketch. I always feel like there is not much sounds, and so 
 I want to look for other platforms that creates beats and upload that to EarSketch. I also tried to get sounds from other websites
 or online, but most of it needs money. The free sounds are limited and is not what I'm looking for.
-<img src= song.png />
 
 #### The basics, the keywords and functions in EarSketch
 + Strings are used with the makeBeat() function to create rhythmic patterns
@@ -43,8 +42,7 @@ or online, but most of it needs money. The free sounds are limited and is not wh
   
 ### My EarSketch songs
 + 3 songs total
-
-<img scr= music.png/>
+<img src= song.png />
     
 # Takeaways
 1. **Try new things and have fun:** EarSketch beats are limited, so I plan to try Garageband.
