@@ -42,8 +42,8 @@ or online, but most of it needs money. The free sounds are limited and is not wh
     +Ask for help
   
 + My EarSketch songs
-    <img scr= SharedImage.png />
-    <img src= SharedImage(1).png />
+    <img scr= song.png />
+    <img src= music.png />
     
 
 ### 
