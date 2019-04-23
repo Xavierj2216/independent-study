@@ -41,10 +41,11 @@ or online, but most of it needs money. The free sounds are limited and is not wh
   + Ask for help
   
 ### My EarSketch songs
++ 3 songs total
 
 <img scr= music.png/>
-+ 3 songs total
-    <img src= song.png />
+
+<img src= song.png />
     
 # Takeaways
 1. **** 
