@@ -7,7 +7,7 @@ experience with music producing or it is the amount of beats that are in EarSket
 I want to look for other platforms that creates beats and upload that to EarSketch. I also tried to get sounds from other websites
 or online, but most of it needs money. The free sounds are limited and is not what I'm looking for.
 
-<img scr = https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiO5vyAgefhAhXvc98KHX3tCMQQjRx6BAgBEAU&url=https%3A%2F%2Fwww.howtogeek.com%2F237432%2Fgetting-started-with-garageband-on-os-x%2F&psig=AOvVaw1PPo__ifeqTIEWP2SjTGsf&ust=1556136132479413 />
+<img scr = https://www.howtogeek.com/wp-content/uploads/2015/12/garageband-650x325.jpg />
 
 #### The basics, the keywords and functions in EarSketch
 + Strings are used with the makeBeat() function to create rhythmic patterns
@@ -44,7 +44,7 @@ or online, but most of it needs money. The free sounds are limited and is not wh
 + My EarSketch songs
     <img scr= song.png />
 + 3 songs total
-<img src= music.png/>
+  <img src= music.png/>
 
 ### 
 
