@@ -35,15 +35,15 @@ or online, but most of it needs money. The free sounds are limited and is not wh
 + There seems to be a way to add image and animation along with your song.
   +importImage
 + Tips for debugging
-  +Produce the error
-  +Read the console for clues
-  +Locate the error in your code
-  +Take action to fix it
-  +Ask for help
+    +Produce the error
+    +Read the console for clues
+    +Locate the error in your code
+    +Take action to fix it
+    +Ask for help
   
-+ My EarSketch (This is a overview, the detail inside is not important)
-
-    <img src=  />
++ My EarSketch songs
+    <img scr= SharedImage.png />
+    <img src= SharedImage(1).png />
     
 
 ### 
