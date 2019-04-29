@@ -15,7 +15,10 @@ or online, but most of it needs money. The free sounds are limited and is not wh
   + trackNumber: The track on which music is placed.
   + measureNumber: The starting measure of the beat. The beat string determines the total length.
   + beatString: A string that specifies the rhythm created.
-  
++ '0' starts playing the clip.
++ '-' is a rest, meaning that there’s nothing being played.
++ '+' extends the sound clip into the next sixteenth-note sub-beat
+
 + The basic components of a for-loop
   + Ex: Ex: for measure in range(1,4):
 + Loop Body: The body of a loop contains statements that will execute repeatedly. 
@@ -40,11 +43,14 @@ or online, but most of it needs money. The free sounds are limited and is not wh
   + Take action to fix it
   + Ask for help
   
++ Hard Coding: Writing data values directly into the code
++ User Input: Asking the user to input information (ex. raw_input())
+
 ### My EarSketch songs
 + 3 songs total
 <img src= song.png />
     
 # Takeaways
-1. **Try new things and have fun:** EarSketch beats are limited, so I plan to try Garageband.
+1. **Try new things and have fun:** EarSketch beats are limited, so I plan to try Garageband or other platforms.
 2. **By now try to get some product or at least start your project** 
 
