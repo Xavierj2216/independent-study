@@ -49,7 +49,13 @@ or online, but most of it needs money. The free sounds are limited and is not wh
 ### My EarSketch songs
 + 3 songs total
 <img src= song.png />
-    
+
+### Download other platform
++ To create better sounding songs I installed FL Studio and tinkered with it
++ So far I'm trying to see if I should learn more about this platform to combine it with EarSketch 
++ I will also focus on making music for the collaboration project with a few other classmate.
+![alt text](https://usercontent1.hubstatic.com/14387930_f520.jpg "Logo Title Text 1")
+
 # Takeaways
 1. **Try new things and have fun:** EarSketch beats are limited, so I plan to try Garageband or other platforms.
 2. **By now try to get some product or at least start your project** 
