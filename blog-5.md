@@ -51,6 +51,25 @@ print myImage
 def onLoop():
   drawRectangle(10,15,50,30,"#FF0000")
 ```
+
++ One music for my calm sound
+```python
+from earsketch import *
+
+init()
+setTempo(120)
+
+fitMedia(FOXTRICK_PIANO,1,1,30)
+setEffect(1,VOLUME,GAIN,-1)
+fitMedia(FOXTRICK_OCEAN_NOISE___SURF,2,5,24)
+fitMedia(FOXTRICK_GUZHENG,3,6,20)
+setEffect(3,VOLUME,GAIN,-2)
+
+
+finish()
+
+```
+
 ### FreeSound
 
 ![free-sound](https://upload.wikimedia.org/wikipedia/commons/3/3c/Freesound_project_website_logo.png)
