@@ -51,8 +51,6 @@ print myImage
 def onLoop():
   drawRectangle(10,15,50,30,"#FF0000")
 ```
-[logo]: https://upload.wikimedia.org/wikipedia/commons/3/3c/Freesound_project_website_logo.png "Logo Title Text 2"
-
 
 ### Game plan
 + Like a walk in a park
