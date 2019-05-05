@@ -21,7 +21,7 @@ that will be on Unity. It will be the combination of Unity, EarSketch, and Blend
   + is a way to use audio to convey information, by turning data into sound. 
   + Sonification has a lot of useful applications, like helping the visually impaired through sound. 
 
-+ + rgbToHex() which changes three numbers to its hex value.
++ rgbToHex() which changes three numbers to its hex value.
 
 + The analyze() function 
   + allows you to find the volume of the sound with RMS_AMPLITUDE. 
@@ -33,7 +33,7 @@ analysisValue = analyze(clip, RMS_AMPLITUDE)
 print analysisValue
 ```
 
-+  importImage function 
++ importImage function 
   + that converts any image into data that can be used within EarSketch
   + importImage(imageURL, numberOfRows, numberOfColumns)
   + It’s usually easiest to use a black and white image.
