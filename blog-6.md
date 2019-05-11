@@ -77,39 +77,32 @@ for letter in songPattern:
 
 	start += sectionLen
 ```
-![for loop](https://earsketch.gatech.edu/earsketch2/curriculum/media/U1P2/Loop_Components_PY.png)
+![for loop](Loop_Components_PY.png)
 
-### One music for my calm sound
+### My calm music
 ```python
-from earsketch import *
-
-init()
-setTempo(120)
-
-fitMedia(FOXTRICK_PIANO,1,1,30)
-setEffect(1,VOLUME,GAIN,-1)
-fitMedia(FOXTRICK_OCEAN_NOISE___SURF,2,5,24)
-fitMedia(FOXTRICK_GUZHENG,3,6,20)
-setEffect(3,VOLUME,GAIN,-2)
-
-
-finish()
+for i in range(1,41):
+  
+  fitMedia(piano,1,1.5,41)
+  setEffect(1,VOLUME,GAIN,-4)
+  fitMedia(cello,3,6,20)
+  fitMedia(violin,4,20,30)
+  setEffect(4,VOLUME,GAIN,-30)
+  setEffect(3,VOLUME,GAIN,-12)
+  
+fitMedia(FOXTRICK_OCEAN_NOISE___SURF,2,1,10)
 
 ```
 
-### FreeSound
-
-![free-sound](https://d2.alternativeto.net/dist/s/2fc76370-86f9-e011-98e6-0025902c7e73_1_full.png?format=jpg&width=1600&height=1600&mode=min&upscale=false)
-
 ### Game plan
-+ Like a walk in a park
-+ Probably 3D, look at the nature or landscapes
-+ Human looking model for character
-+ Able to move around
-+ Music playing in background
++ We got the movement done
++ Character is being design
++ Test models are created
++ The landscape is almost done
++ Music playing in background needs to be uploaded.
 
 
 # Takeaways
-1. **** 
-2. **** 
+1. **Make your code efficient:** If there is a way to make your code efficient then use it, loops can help a lot when you are repeating the same code multiple times. 
+2. **Don't worry there might be multiple solutions:** If the for loop doesn't work there is a while loop, I just have to search for it and learn. 
 
