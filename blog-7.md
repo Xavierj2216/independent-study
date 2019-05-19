@@ -11,6 +11,18 @@ This week I was mainly focused on Unity because I finish the EarSketch song that
   + UI Introduction - Simple Menu - Unity 4.6 Tutorial: https://www.youtube.com/watch?v=rsZM3q74Q2k
 ![UI](https://i.ytimg.com/vi/rsZM3q74Q2k/maxresdefault.jpg)
 
++ What I created from the tutorial
+
+![First](Annotation.png)
++ Then I simplified it to only the PLAY GAME button
++ I put that in one scene and two copies of that button in another scene 
++ Rename the two buttons to Resume and quit
+
++ Third video I looked at
+  + After sending the buttons I create from the second video, it was too simple and so I had to look for a better looking button.
+  + PAUSE MENU in Unity: https://www.youtube.com/watch?v=JivuXdrIHK0
++ What I created from the tutorial
+![UI](https://i.ytimg.com/vi/rsZM3q74Q2k/maxresdefault.jpg)
 ```python
 
 ```
