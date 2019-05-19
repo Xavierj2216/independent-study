@@ -22,7 +22,7 @@ This week I was mainly focused on Unity because I finish the EarSketch song that
   + After sending the buttons I create from the second video, it was too simple and so I had to look for a better looking button.
   + PAUSE MENU in Unity: https://www.youtube.com/watch?v=JivuXdrIHK0
 + What I created from the tutorial
-![UI](https://i.ytimg.com/vi/rsZM3q74Q2k/maxresdefault.jpg)
+![Pause](PAUSE.png)
 ```python
 
 ```
