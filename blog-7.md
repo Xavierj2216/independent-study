@@ -22,9 +22,47 @@ This week I was mainly focused on Unity because I finish the EarSketch song that
   + After sending the buttons I create from the second video, it was too simple and so I had to look for a better looking button.
   + PAUSE MENU in Unity: https://www.youtube.com/watch?v=JivuXdrIHK0
 + What I created from the tutorial
-![Pause](PAUSE.png)
-```python
 
+![Pause](PAUSE.png)
++ I copied this button and dragged it down to create a quit button
+```C#
+using System;
+ using UnityEngine;
+ 
+ public class pause : MonoBehaviour
+ {
+     bool paused = false;
+ 
+     void Update()
+     {
+         if(Input.GetButtonDown("pauseButton"))
+             paused = togglePause();
+     }
+     
+     void OnGUI()
+     {
+         if(paused)
+         {
+             GUILayout.Label("Game is paused!");
+             if(GUILayout.Button("Click me to unpause"))
+                 paused = togglePause();
+         }
+     }
+     
+     bool togglePause()
+     {
+         if(Time.timeScale == 0f)
+         {
+             Time.timeScale = 1f;
+             return(false);
+         }
+         else
+         {
+             Time.timeScale = 0f;
+             return(true);    
+         }
+     }
+ }
 ```
 
 
